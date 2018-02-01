@@ -20,3 +20,6 @@ print(list)
 
 list.remove(60)
 print(list)
+
+list.append(50)
+print(list)
